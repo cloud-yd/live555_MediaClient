@@ -1,0 +1,13 @@
+﻿F:\VS2017\setup\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  testRTSPClient.cpp
+f:\vs2017\workspace\live555_testrtspclient\testrtspclient.cpp(50): warning C4129: “V”: 不可识别的字符转义序列
+f:\vs2017\workspace\live555_testrtspclient\testrtspclient.cpp(50): warning C4129: “w”: 不可识别的字符转义序列
+f:\vs2017\workspace\live555_testrtspclient\testrtspclient.cpp(50): warning C4129: “l”: 不可识别的字符转义序列
+f:\vs2017\workspace\live555_testrtspclient\testrtspclient.cpp(50): warning C4129: “.”: 不可识别的字符转义序列
+f:\vs2017\workspace\live555_testrtspclient\testrtspclient.cpp(50): warning C4129: “D”: 不可识别的字符转义序列
+  BasicUsageEnvironment.lib(BasicUsageEnvironment.obj) : 找到 MSIL .netmodule 或使用 /GL 编译的模块；正在使用 /LTCG 重新启动链接；将 /LTCG 添加到链接命令行以改进链接器性能
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/LTCG”规范)
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  正在生成代码
+  已完成代码的生成
+  live555_testRTSPClient.vcxproj -> F:\VS2017\workspace\live555_testRTSPClient\.\x64\Debug\live555_testRTSPClient.exe
